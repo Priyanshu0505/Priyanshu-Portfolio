@@ -239,10 +239,16 @@ profile-photo .img{
 
 .education-content .row{
   display: flex;
+<<<<<<< HEAD
   justify-content: space-between;
   align-items: stretch;
   gap: 30px;
   margin-bottom: 120px;
+=======
+  border-radius: 5px;
+  height: 400px;
+  margin-bottom: 250px;
+>>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
 }
 
 .education-content .title{
@@ -315,20 +321,37 @@ profile-photo .img{
   margin-bottom: 8px;
 }
 .education-content .row .timeline-text{
+<<<<<<< HEAD
   text-align: left;
+=======
+  line-height: 25px;
+  font-size: 16px;
+  text-align: justify;
+>>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
 }
 
 
 
+<<<<<<< HEAD
 .project-content{
   padding: 90px 0;
 }
 
+=======
+/*---------------------------Projects---------------------------*/
+.project-content{
+  padding: 90px 0;
+  /* color:#fff;  */
+}
+>>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
 .project-title{
   margin-bottom: 60px;
   text-align: center;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
 .project-title h4{
   text-transform: uppercase;
   font-size: 40px;
@@ -336,6 +359,7 @@ profile-photo .img{
   color: #fed700;
   margin-bottom: 20px;
 }
+<<<<<<< HEAD
 
 .project-title p{
   color: #e5e5e5;
@@ -364,6 +388,28 @@ profile-photo .img{
 }
 
 /* Icon */
+=======
+.project-title p{
+  color: #e5e5e5;
+}
+.projects{
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+}
+.project{
+    /* padding: 30px 15px; */
+    color: #e5e5e5;
+    border: 2px solid #e5e5e5;
+    border-radius: 10px;
+    width: 100%;
+    position: relative;
+    padding: 25px;
+    text-align: center;
+    flex-basis: 32%;
+    transition: .3s;
+}
+>>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
 .project i{
   background-color: #fed700;
   width: 60px;
@@ -372,6 +418,7 @@ profile-photo .img{
   font-size: 26px;
   line-height: 60px;
   border-radius: 50%;
+<<<<<<< HEAD
   margin: 0 auto;
 }
 
@@ -396,6 +443,17 @@ profile-photo .img{
 }
 
 /* Hover Effect */
+=======
+}
+.project h4{
+  font-size: 26px;
+  text-transform: capitalize;
+  margin: 20px 0;
+}
+.project p{
+  text-align: justify;
+}
+>>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
 .project:hover{
   border-color: #fed700;
 }
@@ -555,6 +613,7 @@ profile-photo .img{
 
 }
 
+<<<<<<< HEAD
 
 
 /* Certifications */
@@ -712,3 +771,5 @@ profile-photo .img{
   white-space: nowrap; /* 🔥 ek hi line me rakhega */
 }
 
+=======
+>>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
