@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 $(document).ready(function () {
 
   // ================= STICKY HEADER =================
@@ -126,7 +126,7 @@ function updateActiveSection() {
     }
   });
 }
-=======
+
 $(document).ready(function() {
 
   //sticky header
@@ -239,6 +239,3 @@ $(document).ready(function() {
     });
   }
   
-
- 
->>>>>>> b8040da15d6f237e157bfffa45b7bdf4e8afb391
